@@ -2,7 +2,6 @@ package guru.springframework.sfgdi.services;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
-
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.*;
 import org.springframework.context.ApplicationContext;
