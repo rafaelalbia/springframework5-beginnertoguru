@@ -11,7 +11,7 @@
 
 	<groupId>guru.springframework</groupId>
 	<artifactId>sfgpetclinic</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.3</version>
 
 	<modules>
 		<module>petclinicdata</module>
@@ -46,6 +46,6 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/rafaelalbia/springframework5-beginnertoguru.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>sfgpetclinic-0.0.3</tag>
 	</scm>
 </project>
